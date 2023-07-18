@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ew9o8Rd1jBdA+65yZwyIs8/UQdfIbhQ86Ei/65A+TAmonCCU4Tzn/zRZxP81GKE/K2jz1O1Q9HRpJY/GMcTJCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ\\source\\repos\\KatmanliMimari\\Katmanli.Core\\Katmanli.Core.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'restore' işlemini 'http://nuget.local.sabis.subu.edu.tr/nuget' 'HTTP' kaynağı ile birlikte çalıştırıyorsunuz. HTTPS dışı erişim gelecek sürümlerde kaldırılacak. Bir 'HTTPS' kaynağına geçirmeyi deneyin."
+    }
+  ]
+}

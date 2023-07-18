@@ -1,0 +1,12 @@
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\bin\Debug\net6.0\Katmanli.Core.deps.json
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\bin\Debug\net6.0\Katmanli.Core.dll
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\bin\Debug\net6.0\Katmanli.Core.pdb
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.csproj.AssemblyReference.cache
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.AssemblyInfoInputs.cache
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.AssemblyInfo.cs
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.dll
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\refint\Katmanli.Core.dll
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\Katmanli.Core.pdb
+C:\Users\YAVUZ\source\repos\KatmanliMimari\Katmanli.Core\obj\Debug\net6.0\ref\Katmanli.Core.dll
